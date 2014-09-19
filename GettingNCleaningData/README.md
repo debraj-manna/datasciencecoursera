@@ -6,7 +6,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 The repo consists of the following major things:-
 
 * A tidy data set file named ```tidy_data.txt```
-* A ```R``` script named ```run_analysis.R``` preparing the tidy data set
+* A ```R``` script named ```run_analysis.R``` for preparing the tidy data set
 * A code book that describes the variables, the data, and any transformations or work that was performed to clean up the data called ```CodeBook.md```
 
 
