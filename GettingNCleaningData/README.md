@@ -30,4 +30,4 @@ The repo consists of the following major things:-
 	* ```merged_data.txt``` - Merged content of training data, testing data, subjects & labels with descriptive names for the feature columns and the activity. 
     * ```tidy_data.txt``` -  A new independent tidy data set with the average of each variable grouped by subject and activity.
   
-Refer ```CodeBook.md``` for the details about how ```merged_data.txt``` & ```tidy_data.txt``` were prepared.
+Refer [```CodeBook.md```](https://github.com/debraj-manna/datasciencecoursera/blob/master/GettingNCleaningData/data/CodeBook.md) for the details about how ```merged_data.txt``` & ```tidy_data.txt``` were prepared.
